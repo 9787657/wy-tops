@@ -24,5 +24,8 @@
     <ClCompile Include="螺旋数字矩阵.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="密码输入检测.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

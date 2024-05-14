@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="密码输入检测.c" />
     <ClCompile Include="找座位.c" />
     <ClCompile Include="最长子字符串的长度.c" />
     <ClCompile Include="螺旋数字矩阵.c" />
