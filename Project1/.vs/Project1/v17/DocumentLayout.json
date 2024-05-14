@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\HUAWEIOD\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5BFBBE-FE46-4488-A15A-6182ECC0B7BD}|Project1.vcxproj|E:\\github\\HUAWEIOD\\Project1\\\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D5BFBBE-FE46-4488-A15A-6182ECC0B7BD}|Project1.vcxproj|solutionrelative:\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5BFBBE-FE46-4488-A15A-6182ECC0B7BD}|Project1.vcxproj|E:\\github\\HUAWEIOD\\Project1\\\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D5BFBBE-FE46-4488-A15A-6182ECC0B7BD}|Project1.vcxproj|solutionrelative:\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5BFBBE-FE46-4488-A15A-6182ECC0B7BD}|Project1.vcxproj|E:\\github\\HUAWEIOD\\Project1\\\u627E\u5EA7\u4F4D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D5BFBBE-FE46-4488-A15A-6182ECC0B7BD}|Project1.vcxproj|solutionrelative:\u627E\u5EA7\u4F4D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "DocumentMoniker": "E:\\github\\HUAWEIOD\\Project1\\\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "RelativeDocumentMoniker": "\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "ToolTip": "E:\\github\\HUAWEIOD\\Project1\\\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "RelativeToolTip": "\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-14T12:44:25.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "DocumentMoniker": "E:\\github\\HUAWEIOD\\Project1\\\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "RelativeDocumentMoniker": "\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "ToolTip": "E:\\github\\HUAWEIOD\\Project1\\\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "RelativeToolTip": "\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-14T12:43:32.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u627E\u5EA7\u4F4D.c",
+              "DocumentMoniker": "E:\\github\\HUAWEIOD\\Project1\\\u627E\u5EA7\u4F4D.c",
+              "RelativeDocumentMoniker": "\u627E\u5EA7\u4F4D.c",
+              "ToolTip": "E:\\github\\HUAWEIOD\\Project1\\\u627E\u5EA7\u4F4D.c",
+              "RelativeToolTip": "\u627E\u5EA7\u4F4D.c",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-14T12:42:56.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
