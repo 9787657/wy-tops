@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\github\\9787657\\wy-tops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u627E\u5EA7\u4F4D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\\u627E\u5EA7\u4F4D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u5BC6\u7801\u8F93\u5165\u68C0\u6D4B.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\\u5BC6\u7801\u8F93\u5165\u68C0\u6D4B.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "DocumentMoniker": "D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "RelativeDocumentMoniker": "Project1\\\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "ToolTip": "D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "RelativeToolTip": "Project1\\\u87BA\u65CB\u6570\u5B57\u77E9\u9635.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-15T03:32:14.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "DocumentMoniker": "D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "RelativeDocumentMoniker": "Project1\\\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "ToolTip": "D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "RelativeToolTip": "Project1\\\u6700\u957F\u5B50\u5B57\u7B26\u4E32\u7684\u957F\u5EA6.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-15T03:32:13.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u627E\u5EA7\u4F4D.c",
+              "DocumentMoniker": "D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u627E\u5EA7\u4F4D.c",
+              "RelativeDocumentMoniker": "Project1\\\u627E\u5EA7\u4F4D.c",
+              "ToolTip": "D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u627E\u5EA7\u4F4D.c",
+              "RelativeToolTip": "Project1\\\u627E\u5EA7\u4F4D.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-15T03:32:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u5BC6\u7801\u8F93\u5165\u68C0\u6D4B.c",
+              "DocumentMoniker": "D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u5BC6\u7801\u8F93\u5165\u68C0\u6D4B.c",
+              "RelativeDocumentMoniker": "Project1\\\u5BC6\u7801\u8F93\u5165\u68C0\u6D4B.c",
+              "ToolTip": "D:\\Desktop\\github\\9787657\\wy-tops\\Project1\\\u5BC6\u7801\u8F93\u5165\u68C0\u6D4B.c",
+              "RelativeToolTip": "Project1\\\u5BC6\u7801\u8F93\u5165\u68C0\u6D4B.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-15T03:32:12.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
